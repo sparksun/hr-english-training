@@ -1,7 +1,7 @@
 # 30天高管级 HR 英语突破计划 (30-Day Executive HR English Training Program)
 
 > **"Speak with Executive Presence, Lead with Strategic Depth."**
-> 专为拥有 15+ 年深厚行业积淀、旨在突破外企或中资出海企业 **HRD / HRBP Leader** 面试的资深 HR 经理打造的 30 天高效英语突破与实战打卡项目。
+> 专为拥有深厚行业积淀、旨在突破外企或中资出海企业 **HRD / HRBP Leader** 面试的资深 HR 经理打造的 30 天高效英语突破与实战打卡项目。
 
 ---
 
@@ -11,7 +11,7 @@
 
 本项目的核心设计逻辑是 **“专业度重塑 (Strategic Competence Reframing)”**：
 1. **避开传统语法的死记硬背**：不从零纠结细微的语法对错，而是直接训练用高管级别的结构和词汇来表达深度的商业成果。
-2. **专业积淀转化为语言优势**：将 15 年的组织发展 (OD)、员工关系 (ER)、薪酬绩效、人才盘点等专业履历，精准映射为地道、干练的英文高管话术。
+2. **专业积淀转化为语言优势**：将过去历年年的组织发展 (OD)、员工关系 (ER)、薪酬绩效、人才盘点等专业履历，精准映射为地道、干练的英文高管话术。
 3. **基于 GitHub Issue 的互动式打卡 (Interactive LMS)**：每一个 Issue 都是一个真实的面试模块或日常实战场景，你可以通过提交评论进行文稿打卡或语音链接提交，获得系统化的润色与反馈。
 
 ---
@@ -102,4 +102,4 @@ gantt
 
 > *"Your 15 years of HR experience is not a gap; it is your ultimate leverage. English is simply the bridge to convey your wisdom. Do not let fear hold you back. Let's make your voice heard."*
 > 
-> 语言只是一种工具，你的 15 年资深 HR 管理经验、精湛的组织洞察力和商业判断，才是面试官梦寐以求的核心价值。让我们共同开启这 30 天的蜕变之旅！
+> 语言只是一种工具，你过去积累的 资深 HR 管理经验、精湛的组织洞察力和商业判断，才是面试官梦寐以求的核心价值。让我们共同开启这 30 天的蜕变之旅！
