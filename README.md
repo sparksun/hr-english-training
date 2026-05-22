@@ -100,6 +100,6 @@ gantt
 
 ## 🕯 导师寄语 (Mentor's Message)
 
-> *"Your 15 years of HR experience is not a gap; it is your ultimate leverage. English is simply the bridge to convey your wisdom. Do not let fear hold you back. Let's make your voice heard."*
+> *"Your past years of HR experience is not a gap; it is your ultimate leverage. English is simply the bridge to convey your wisdom. Do not let fear hold you back. Let's make your voice heard."*
 > 
 > 语言只是一种工具，你过去积累的 资深 HR 管理经验、精湛的组织洞察力和商业判断，才是面试官梦寐以求的核心价值。让我们共同开启这 30 天的蜕变之旅！
