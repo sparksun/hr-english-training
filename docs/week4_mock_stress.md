@@ -72,3 +72,100 @@
 
 ## ✍️ Issue #12 实战打卡作业：
 恭喜你进入最后一周！请点击进入 **Issue #12** 任务，在评论区用英文拟定一段你反问 CEO 的 3 个高端商业问题，或者模拟一段你与猎头/HR进行薪资谈判的英文对话。你的 AI 导师会亲自为你把关，确保你以最具尊严、最具专业风范的姿态赢得属于你的顶级 Offer！
+
+---
+
+## 🤖 AI 工具辅助学习区（第4周）
+
+> 冲刺阶段！本周的 AI 工具使用将以**全真模拟**为核心——利用工具模拟面试官提问、练习反问技巧和薪资谈判，确保你在正式面试时以最高的准备度登场。
+
+---
+
+### 🔬 Google Tiny Lesson：终面与谈判情境词汇激活
+
+**工具入口**：[https://labs.google/lll/en/experiments/tiny-lesson](https://labs.google/lll/en/experiments/tiny-lesson)
+
+📋 **第4周专属终面 & 谈判 Prompt 库**：
+
+| # | Prompt（直接粘贴到 Tiny Lesson 输入框） | 学习目标 |
+|---|---|---|
+| 1 | `Presenting a 30-60-90 day transition plan to a CEO in a final-round executive interview for an HRD position` | 入职规划词汇 + 战略表达 |
+| 2 | `Asking high-level strategic business questions to a CEO or business leader at the end of a job interview` | 高端反问问题词汇 |
+| 3 | `Negotiating a senior executive salary package with an HR Director after receiving an initial job offer` | 薪资谈判词汇 + 谈判话术 |
+| 4 | `Handling a stress-test question like "Why should we choose you over other equally qualified candidates?"` | 压力问题应对词汇 |
+| 5 | `Confidently and professionally closing a senior management job interview and asking about next steps` | 面试收尾 + 提问词汇 |
+
+> 💡 **本周 Tiny Lesson 进阶用法**：使用"**Slang Hang**"功能，看看外企 CHRO 在非正式交流场合会如何更轻松地讨论薪资待遇（total package / ballpark figure / comp structure），让你在任何语境下都能自如切换。
+
+---
+
+### 📔 NotebookLM：终面冲刺播客 + 全套测验
+
+**操作指引**：建立第四周笔记本，上传 `week4_mock_stress.md` 以及你过去三周在 Issues 评论区提交的所有 STAR 故事草稿（复制粘贴进去）。这样 NotebookLM 可以把你**自己的真实案例**也纳入分析，生成更具个人化的播客和测验！
+
+**推荐功能组合**：
+- **Audio Overview (Brief 模式)** → 生成"快速复习版"播客（约 5 分钟），在面试当天早晨戴耳机重温核心框架。
+- **Quiz（测验模式）** → 重点测验"30-60-90天规划"和"薪资谈判话术"，直到 100% 掌握。
+- **Study Guide** → 生成一份"面试最终检查清单"，打印后在面试前 30 分钟浏览。
+
+#### 🧠 第4周即时自测（5题 · 在 Issue #10 评论区提交答案）
+
+**Q1**：30-60-90 天入职规划中，第一个 30 天的核心主题是什么？
+- A. 立即推动变革，展示即战力
+- B. **"Listen, Learn & Align"（倾听、学习与对齐）** ✅
+- C. 设计全新的 HR 体系
+- D. 裁减低效员工以降低成本
+
+**Q2**：在面试尾声，以下哪个反问最能展现 HRD/HRBP Leader 的战略格局？
+- A. "How many vacation days do I get per year?"
+- B. "What is the overtime policy here?"
+- C. **"What is the biggest organizational barrier that could potentially slow down your business expansion, and how do you envision HR solving it?"** ✅
+- D. "When will you make a decision?"
+
+**Q3**："Proven track record" 这个短语在薪资谈判中的最佳使用场景是？
+- A. 讨论自己的教育背景
+- B. 解释为什么你要求高薪时，用来强调你有**经证明的、可量化的成果历史作为议价依据** ✅（无需选项 A/B/C/D，直接口述）
+
+**Q4**：在薪资谈判时，为什么应先讲"你对公司的战略价值"，再提"期望薪资数字"？
+- A. 这是礼貌习惯，没有实质作用
+- B. 为了拖延时间
+- C. **先建立价值感，让对方先认可你的战略回报，再讨论数字，大幅增加谈判成功率** ✅
+- D. 因为面试官通常先问薪资
+
+**Q5**：以下哪个英文句子最能体现"双赢谈判 (Win-Win Negotiation)"的精神？
+- A. "I need at least [X] or I will not accept."
+- B. "My market rate is [X], take it or leave it."
+- C. **"I am genuinely excited about joining the team. I believe we can find a mutually beneficial package that reflects both the strategic scope of this role and the value I bring."** ✅
+- D. "You should pay me more because I have 15 years of experience."
+
+---
+
+### 🎬 YouTube 精选视频 + Shadowing 阴影跟读任务
+
+#### 🎥 本周精选视频 1（优先完成）
+**搜索方式（YouTube 搜索栏输入）**：`Stacy Mayer "executive interview tips women leaders" OR "executive presence women VP Director"`
+
+**精听三大目标**：
+1. 她如何用"**I see myself as...**"或"**I am known for...**"来定义自己的领导力身份标签，而非简单罗列职位头衔？
+2. 在谈论未来时，她是如何表达**愿景与战略方向**（而非具体操作任务）的？
+3. 注意她整体讲话的**语速节奏**——是快速密集型，还是深思熟虑型？哪一种更适合资深高管气质？
+
+**Shadowing 打卡任务**：
+- 选择她介绍自己领导力价值的 1 个段落（约 4-6 句话），跟读 5 次。
+- 在 **Issue #11** 评论区，用英文写出你自己的**"领导力身份宣言" (Leadership Identity Statement)**，用一到两句话定义你是谁、你的超能力是什么，以及你为公司带来的独特价值。
+
+#### 🎥 本周精选视频 2（选做 · 极高价值！）
+**搜索方式**：`"salary negotiation executive" OR "how to negotiate salary offer senior manager" English coach`
+
+**精听目标**：注意教练如何教候选人在谈判中用"**I was thinking more in the range of...**"或"**Based on my research and the scope of this role...**"等句型来既坚定又优雅地说出期望数字，同时保持关系融洽。
+
+---
+
+### 🏆 30天闯关完成！终极冲刺提醒
+
+> [!TIP]
+> 完成第4周所有 Issues 打卡后，你已系统训练了：
+> ✅ 3 分钟黄金自我介绍  ✅ 3 个 STAR 高管战役  ✅ BLS 跨文化 Pushback  ✅ 30-60-90天规划  ✅ 薪资谈判话术
+>
+> **最后 3 天：** 建议你将所有 Issue 评论中最满意的答复整理成一份"面试锦囊"文档，面试前一晚大声朗读 3 遍，在心理和语言上做最高程度的激活！你已经准备好了。
+

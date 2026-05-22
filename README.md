@@ -68,7 +68,21 @@ gantt
 
 ---
 
-## 🛠 如何使用本项目进行互动学习？
+## 🤖 Google AI 学习工具快速入口
+
+本课程深度整合三大 Google AI 工具，帮助你把学习效率提升 3 倍。详细操作指南请参阅：[**📖 AI 工具综合使用手册 →**](docs/ai_tools_guide.md)
+
+| 工具 | 功能定位 | 直达链接 |
+|---|---|---|
+| 🔬 **Google Tiny Lesson** | 输入 HR 面试场景，即时生成词汇 + 语法 + 发音 | [立即使用 →](https://labs.google/lll/en/experiments/tiny-lesson) |
+| 📔 **Google NotebookLM** | 上传教材，一键生成通勤播客 + 智能闪卡 + 自测题 | [立即使用 →](https://notebooklm.google.com/) |
+| 🎬 **YouTube Shadowing** | 跟读顶尖 Executive Coach，复刻高管气场与语调节奏 | 搜索词见各周 `docs/week*.md` |
+
+> 💡 **推荐每日组合**：早晨通勤听 NotebookLM 播客（10-20 分钟）→ 白天用 Tiny Lesson 热身词汇（5 分钟）→ 每周 2-3 次 YouTube Shadowing 跟读（30 分钟）
+
+---
+
+
 
 本项目不仅是教材，更是你**个人的英文面试作品集 (Portfolio) 与打卡看板**。
 

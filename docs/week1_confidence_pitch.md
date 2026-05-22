@@ -88,3 +88,112 @@
 
 ## ✍️ Issue #2 实战打卡作业：
 请点击 **Issue #2** 任务，在评论区根据上述模板撰写你个人的 3 分钟英文 Elevator Pitch 草稿，并附上录音链接。导师会直接在下方为你进行定制化的英文句式升级和专业度重塑！
+
+---
+
+## 🤖 AI 工具辅助学习区（第1周）
+
+> 充分利用以下三大 Google AI 工具，让本周的每一个知识点都能通过听、说、测三个维度得到深度内化。
+
+---
+
+### 🔬 Google Tiny Lesson：情境词汇即时激活
+
+**工具入口**：[https://labs.google/lll/en/experiments/tiny-lesson](https://labs.google/lll/en/experiments/tiny-lesson)（需个人 Google 账户，不支持企业/学校账号）
+
+**使用方法**：打开工具，语言选择"英文"，将以下任意一条 Prompt 完整复制到输入框，点击生成即可获得该情境的词汇、短语、语法要点及发音音频。
+
+📋 **第1周专属 HR 面试 Prompt 库（直接复制使用）**：
+
+| # | Prompt（直接粘贴到 Tiny Lesson 输入框） | 学习目标 |
+|---|---|---|
+| 1 | `Introducing myself as a senior HR director to a CEO in a first-round executive job interview` | 高管自我介绍的核心词汇与语法 |
+| 2 | `Describing the strategic value I bring as an HRD or HRBP Leader in a multinational company` | 价值主张 (Value Proposition) 的精准表达 |
+| 3 | `Using executive-level business vocabulary to describe 15 years of organizational HR experience` | 高级 HR 动词与专业名词激活 |
+| 4 | `Discussing my personal leadership style with a global CHRO or VP of HR` | 领导力叙述词汇 |
+| 5 | `Expressing executive presence, confidence, and calmness during a high-stakes formal English interview` | 气场与表达自信心的词汇与语气 |
+
+> 💡 **Tiny Lesson 小贴士**：同一个 Prompt 点击 **"Slang Hang"** 标签，还可以看到地道的非正式表达版本，帮助你理解外籍同事在轻松场合时会如何表达相同的意思。
+
+---
+
+### 📔 NotebookLM：打造你的专属 HR 英语播客与测验
+
+**工具入口**：[https://notebooklm.google.com/](https://notebooklm.google.com/)（免费，需 Google 账户）
+
+#### 📖 第一步：建立你的 HR 英语专属笔记本
+1. 登录 NotebookLM，点击"**New Notebook**"新建笔记本，命名为"HR English Training - Week 1"。
+2. 点击"**Add Source**"，选择"**复制粘贴文本**"，将本文件（`week1_confidence_pitch.md`）的全部内容粘贴进去。
+3. 重复以上步骤，将 `README.md` 也作为第二个来源上传。
+
+#### 🎙 第二步：生成 AI 双主播播客（通勤听力神器）
+- 点击右侧"**Studio**"面板 → "**Audio Overview**" → **"Generate"**。
+- 等待约 1-2 分钟，即可获得一段约 10-15 分钟的英文播客，由两位 AI 主播用轻松地道的对话形式讨论本周的 HR 自我介绍方法论！
+- 🚇 **推荐用法**：上下班通勤时戴耳机反复收听，即使不做笔记也能高效内化。
+
+#### 🃏 第三步：生成智能闪卡组（每日 5 分钟词汇巩固）
+- 在"**Studio**"面板 → 点击"**Flashcards**"。
+- NotebookLM 会自动从文档内容中提炼关键词汇和概念对，生成可翻转的互动闪卡。
+- 每天花 5 分钟翻阅一遍，标记"**Got it**"或"**Missed it**"，专注复习遗忘的卡片。
+
+#### 🧠 第四步：即时自测（答案在下方，完成后请到 Issue #1 评论区提交你的答案！）
+
+**本周自测题（共5题）**
+
+**Q1**：高管 Elevator Pitch 分为哪三个核心阶段（英文名称）？
+- A. Opening / Main / Closing
+- B. **Who I Am / Proven Value / Future Fit** ✅
+- C. Experience / Skills / Motivation
+- D. Background / Achievements / Goals
+
+**Q2**：以下哪个表达最具高管气场与战略高度？
+- A. "I manage staff and do recruitment."
+- B. "I handle people issues in the company."
+- C. **"I spearhead organizational transformation and enable talent at scale."** ✅
+- D. "I am responsible for HR operations."
+
+**Q3**："顿挫与留白 (Pausing for Presence)"技巧的核心目的是什么？
+- A. 让面试官觉得你在背稿子
+- B. **在听觉上展现沉着、冷静、掌控大局的执行气场** ✅
+- C. 争取更多时间查字典
+- D. 减少口语练习的频率
+
+**Q4**：以下哪个词汇最能准确描述 HR 在帮助员工成长方面的高层价值？
+- A. Training employees
+- B. Managing performance reviews
+- C. **Enabling and empowering talent** ✅
+- D. Conducting onboarding sessions
+
+**Q5**：在自我介绍中，"Future Fit"阶段的主要功能是？
+- A. 重复一遍工作经历
+- B. 展示你的个人爱好
+- C. **清晰阐述为何你是该公司/该职位在战略层面的最佳人选** ✅
+- D. 表达你对薪资的期望
+
+---
+
+### 🎬 YouTube 精选视频 + Shadowing 阴影跟读任务
+
+**什么是 Shadowing（阴影跟读）？**
+这是目前成年人口语突破最高效的方法之一：先完整听 1-2 遍理解大意，再打开视频，**每句话暂停**，然后跟着教练的语速、语调、停顿一字一句地大声复述。目标不是"翻译"，而是**在肌肉记忆层面复刻高管说话的节奏感**。
+
+#### 🎥 本周精选视频 1（优先完成）
+**搜索方式（YouTube 搜索栏输入）**：`Linda Raynier "Tell Me About Yourself" senior executive`
+
+**精听三大目标**（先听 2 遍，带着这 3 个问题去找答案）：
+1. 她如何用"I am known for..."作为自我介绍开头来立即建立专业标签？
+2. 她如何自然地过渡到成果陈述（注意她使用了哪个过渡词）？
+3. "That is why I am so excited about this opportunity" 这句话的语调是上扬还是下沉？体现了什么情绪？
+
+**Shadowing 打卡任务**：
+- 选择视频中你最欣赏的 1 个完整段落（约 3-5 句话），反复跟读 5 次。
+- 在 **Issue #2** 的评论区写下：
+  - 你模仿的段落内容（英文）
+  - 跟读后你觉得最难的是什么（语速、发音、还是语调）？
+  - 这次 Shadowing 对你的英文口语自信有何影响？
+
+#### 🎥 本周精选视频 2（选做）
+**搜索方式**：`HBR "Executive Presence How to Project Confidence"`
+
+**精听目标**：注意高管们在回答问题前如何**"暂停思考"**并用 *"That's a great question. Let me think about this..."* 等过渡句来从容争取组织语言的时间。
+

@@ -92,3 +92,92 @@
 
 ## ✍️ Issue #9 实战打卡作业：
 请点击进入 **Issue #9**，在评论区用英文回答：*"Why should we hire you? What makes you stand out among other senior HR candidates?"*（为什么我们应该录用你？是什么让你在其他资深 HR 候选人中脱颖而出？）。请利用本周学习的高管语言艺术，展现出无可匹敌的专业度和自信！导师会在第一时间为你精细批改！
+
+---
+
+## 🤖 AI 工具辅助学习区（第3周）
+
+> 本周聚焦的是"高压情境下的沟通艺术"——向上管理、应对敏感问题。以下 AI 工具将帮助你在面试前高度模拟这些复杂情境，建立对应的语言本能反应。
+
+---
+
+### 🔬 Google Tiny Lesson：跨文化沟通情境词汇激活
+
+**工具入口**：[https://labs.google/lll/en/experiments/tiny-lesson](https://labs.google/lll/en/experiments/tiny-lesson)
+
+📋 **第3周专属跨文化沟通 Prompt 库**：
+
+| # | Prompt（直接粘贴到 Tiny Lesson 输入框） | 学习目标 |
+|---|---|---|
+| 1 | `Diplomatically but firmly pushing back on a global HQ HR policy that conflicts with local Chinese labor laws` | BLS 话术词汇 + 缓冲句型 |
+| 2 | `Strategically explaining a career transition gap to a skeptical CEO at a multinational company interview` | 职业空白期战略化解词汇 |
+| 3 | `Discussing global expansion challenges including cross-border hiring compliance in Southeast Asia with a VP` | 出海合规 + 多元文化词汇 |
+| 4 | `Explaining why I left my last company, using growth-oriented and positive framing` | 离职原因正向重构词汇 |
+| 5 | `Managing cultural integration between Chinese expatriates and local European or US senior executives` | 多元文化融合 + 跨文化协调词汇 |
+
+> 💡 **本周特别提示**：在使用 Tiny Lesson 时，重点观察"**Buffer 缓冲句型**"相关词汇的表达，如 *"I completely appreciate..."*, *"I fully share your perspective that..."* 等。这些不仅是 Pushback 的起点，也是任何敏感话题沟通的万能开场白。
+
+---
+
+### 📔 NotebookLM：敏感问题应对策略播客与测验
+
+**操作指引**：在 NotebookLM 中建立第三周笔记本，上传 `week3_global_leadership.md`。额外推荐加入一个 YouTube 链接作为第二个来源（可将精选视频的 URL 粘贴到 "Add Source → YouTube Link" 中），让 NotebookLM 整合视频内容与本文教材一起生成播客。
+
+**推荐功能组合**：
+- **Audio Overview (Debate 模式)** → 生成时选择"Debate"格式，让 AI 主播以"面试官 vs 候选人"的角色扮演形式演示本周敏感问题的标准答法！
+- **Study Guide** → 生成本周"跨文化沟通核心框架"的结构化大纲，打印下来贴在书桌前。
+- **Flashcards** → 专注于全球化 HR 术语（Localization / Compliance Audit / Expatriate Management 等）。
+
+#### 🧠 第3周即时自测（5题 · 在 Issue #7 评论区提交答案）
+
+**Q1**：BLS 沟通公式的三步分别是什么？（填写英文）
+- A. Begin / Lead / Summarize
+- B. **Buffer / Logic / Solution** ✅
+- C. Brief / Listen / Solve
+- D. Build / Link / Sustain
+
+**Q2**：以下哪种表达最能优雅地启动 Pushback，同时让对方感到被尊重？
+- A. "That won't work here."
+- B. "I completely disagree with that approach."
+- C. **"I completely understand and share your vision... however, based on local market realities..."** ✅
+- D. "Our local team thinks this is the wrong direction."
+
+**Q3**：在英文面试中，如何战略化地描述你正在积极提升英语能力这一事实（将其包装为主动增值）？
+- A. "I know my English is weak, so I have been practicing."
+- B. **"During this career transition, I have been investing in upgrading my cross-cultural leadership skills and business English proficiency to better serve global organizations."** ✅
+- C. "I am not very fluent yet, but I am working on it."
+- D. "My English needs some improvement but I can still communicate."
+
+**Q4**："A phased-in localization strategy" 的核心意思是？
+- A. 立即在全球推行同一套政策
+- B. 完全拒绝总部的全球政策
+- C. **分阶段、渐进式地将全球政策调整适配本地法规与文化环境** ✅
+- D. 将本地政策强制输出到其他国家
+
+**Q5**：在回答"最大的弱点"时，以下哪个答案最符合高管面试的策略？
+- A. "I am a bit of a perfectionist."
+- B. "My English is not strong enough."
+- C. "I have no real weaknesses in this role."
+- D. **"In the past, I occasionally over-involved myself in operations; I have since built clearer delegation frameworks and this has made my team more resilient."** ✅
+
+---
+
+### 🎬 YouTube 精选视频 + Shadowing 阴影跟读任务
+
+#### 🎥 本周精选视频 1（优先完成）
+**搜索方式（YouTube 搜索栏输入）**：`"managing across cultures" HBR Harvard Business Review leadership`
+
+**精听三大目标**：
+1. 讲者如何用"bridging"或"aligning"等动词来描述跨文化沟通中的协调动作？
+2. 当提到不同意见时，他/她是如何使用"**from a different perspective**"或"**on the other hand**"等转折句型的？
+3. 注意他/她讲到挑战时的语气——是沮丧消极，还是从容而充满解决导向的？
+
+**Shadowing 打卡任务**：
+- 选择 1 段讲跨文化沟通挑战的内容（约 4-6 句话），跟读 5 次。
+- 在 **Issue #7** 评论区，用英文描述你职业生涯中遇到的一次真实的跨文化沟通挑战，并写出你当时采用的 1 个关键"桥接动作"（用 BLS 公式框架来表达）。
+
+#### 🎥 本周精选视频 2（选做）
+**搜索方式**：`Stacy Mayer "executive women interview confidence gaps"`
+
+**精听目标**：注意她如何帮助女性高管建立"我的价值是不可替代的"这种叙述方式，以及如何把"空白期"重新定义为战略主动的"充电期"。这与本周"职业空白期"的应对策略高度对齐！
+

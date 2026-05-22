@@ -81,3 +81,92 @@
 
 ## ✍️ Issue #5 实战打卡作业：
 请点击进入 **Issue #5**，从你过去的 15 年丰富经历中挑选一个**员工关系谈判（或裁员整合）**的真实案例，使用本章学习的 **高管级 STAR 框架** 写出你的英文叙事草稿。导师会从遣词造句的商业说服力和逻辑紧凑度上为你做深度修正！
+
+---
+
+## 🤖 AI 工具辅助学习区（第2周）
+
+> 本周的核心任务是用英文讲述你真实的 HR 成就故事。以下三个工具将帮助你快速激活高管级 STAR 词汇、随时随地测验巩固，并通过模仿顶尖职业教练完善你的叙事节奏。
+
+---
+
+### 🔬 Google Tiny Lesson：STAR 叙事情境词汇激活
+
+**工具入口**：[https://labs.google/lll/en/experiments/tiny-lesson](https://labs.google/lll/en/experiments/tiny-lesson)
+
+📋 **第2周专属 HR STAR 场景 Prompt 库**：
+
+| # | Prompt（直接粘贴到 Tiny Lesson 输入框） | 学习目标 |
+|---|---|---|
+| 1 | `Presenting a successful organizational restructuring and headcount optimization to a CEO using executive-level English` | OD 变革量化叙述词汇 |
+| 2 | `Explaining how I resolved a complex labor dispute and protected the company from litigation in English` | ER 谈判 + 法律合规词汇 |
+| 3 | `Presenting talent succession planning results and internal promotion metrics to a global CHRO` | 人才盘点 + 梯队数据词汇 |
+| 4 | `Using data and financial metrics to quantify the ROI of HR programs in a final-round executive interview` | 量化成果 + 财务词汇 |
+| 5 | `Explaining how I overcame strong internal resistance during a major change management initiative` | 变革阻力 + 影响力词汇 |
+
+> 💡 **本周 Tiny Lesson 加餐**：每个 Prompt 生成结果后，特别关注"**Grammar Tips**"板块，它会告诉你在该情境下最常用的英文时态（过去式 "I led/designed/achieved" 是 STAR 故事的核心时态）。
+
+---
+
+### 📔 NotebookLM：STAR 故事词卡与测验中心
+
+**操作指引**：在 NotebookLM 中新建一个名为"STAR Case Studies"的笔记本，把本文件（`week2_behavioral_star.md`）上传，同时可以把你自己已经初步写好的 STAR 故事草稿也粘贴进去作为第二个 Source。
+
+**推荐功能组合**：
+- **Audio Overview** → 让 AI 主播帮你复习 STAR 三大战役模板的核心逻辑；
+- **Flashcards** → 重点针对"战役词汇表"中的英文专业术语进行记忆；
+- **Quiz** → 一键生成包含你自己 STAR 故事内容的个性化测验题。
+
+#### 🧠 第2周即时自测（5题 · 在 Issue #4 评论区提交答案）
+
+**Q1**：在高管 STAR 法则中，**Action（行动）** 部分应占整个回答的大约多少比例？
+- A. 30%
+- B. 50%
+- C. **60%** ✅
+- D. 80%
+
+**Q2**：以下哪个英文表达最适合用于 STAR 故事的 Result（量化结果）阶段？
+- A. "The team worked very hard."
+- B. "We had a positive outcome."
+- C. **"As a direct result, we reduced overall headcount costs by 25% while retaining 100% of key high-potential employees."** ✅
+- D. "I think we did well overall."
+
+**Q3**："Competency mapping matrix" 是在以下哪个场景中使用的工具？
+- A. 员工薪资谈判
+- B. **组织架构重组中，用于识别关键人才能力并消除重复岗位** ✅
+- C. 年度绩效评估
+- D. 新员工入职培训
+
+**Q4**：以下哪个动词短语最能体现在裁员执行中对人文关怀的重视？
+- A. fired employees efficiently
+- B. reduced the headcount
+- C. **implemented an 'Empathic Exit' process** ✅
+- D. terminated redundant staff
+
+**Q5**："Zero labor disputes, zero legal lawsuits, zero negative press" 这个结果组合体现了以下哪种核心 HR 能力？
+- A. Talent Acquisition
+- B. Learning & Development
+- C. **Employee Relations Risk Management & Legal Compliance** ✅
+- D. Compensation & Benefits Design
+
+---
+
+### 🎬 YouTube 精选视频 + Shadowing 阴影跟读任务
+
+#### 🎥 本周精选视频（优先完成）
+**搜索方式（YouTube 搜索栏输入）**：`Self Made Millennial Madeline Mann "STAR Method" senior interview`
+
+**精听三大目标**：
+1. 她如何用**最精简的 1-2 句话**交代 Situation，迅速进入 Action？（练习控制背景描述的"信息密度"）
+2. 在 Action 段落，她是如何使用 **"First... Then... Finally..."** 让步骤自然流畅的？
+3. 她在 Result 段落中是如何**停顿**并"强调"关键数据的（声调有无变化）？
+
+**Shadowing 打卡任务**：
+- 选择她讲 Action 部分的 1 个自然段（约 4-6 句话），跟读 5 次。
+- 在 **Issue #5** 的评论区，尝试用"**First... Then... Finally...**"结构，用英文写出你自己某个 HR 案例中的 3 个核心行动步骤（不超过 5 句话）。
+
+#### 🎥 本周精选视频 2（选做）
+**搜索方式**：`Harvard Business Review "How to Tell a Story in a Job Interview"`
+
+**精听目标**：观察 HBR 视频中的讲者如何在 Result 中用"**This resulted in...**" / "**The impact was...**"来清晰地宣告成果。
+
